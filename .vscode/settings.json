@@ -1,0 +1,17 @@
+{
+  "prettier.configPath": ".prettierrc.json",
+  "prettier.useEditorConfig": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "editor.tabSize": 2,
+  "editor.linkedEditing": true,
+  "editor.defaultFormatter": null,
+  "eslint.format.enable": false,
+  "eslint.codeActionsOnSave.mode": "all",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "vs-code-prettier-eslint.prettierLast": true
+}
